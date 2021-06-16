@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login_screen</string>
+
+    <string name="screen_login">Forgot Password ?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="credentials">E-mail or username</string>
+</resources>
